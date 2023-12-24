@@ -1,0 +1,22 @@
+{
+  "Records": [
+    {
+      "EventSource": "aws:sns",
+      "EventVersion": "1.0",
+      "EventSubscriptionArn": "arn:aws:sns:eu-central-1:094718664989:demo-23-12:9be6fd7d-9f78-46ac-ad5f-a8b61498f26b",
+      "Sns": {
+        "Type": "Notification",
+        "MessageId": "0ba92e0c-deea-5b06-af1f-700c17c695ad",
+        "TopicArn": "arn:aws:sns:eu-central-1:094718664989:demo-23-12",
+        "Subject": "sample",
+        "Message": "demo",
+        "Timestamp": "2023-12-23T11:39:24.783Z",
+        "SignatureVersion": "1",
+        "Signature": "a+ahH5MKATTaV2OL4iGizZ6z2/783DQdCcWuMFT8nHg9obBdvrzscBnPWfMt71hFfX30orHfLiWvQdGOpsO92EJb7wxunAdoziGosfo0hdt7B+4M6uKdUWb0jQErYRf3PA+0jP1vFUSQKVok//EZHB6AaCPicNPpVT+xJRJSMfOPNlmJEHbcE3hyLjB2Fg1TxloxJAcUIwwKO8xxt7ntCClfn5aJvsm5PWk5eauO9kHHiZR/FbJeZftOQBUNJR9Vi57hEiAX9wtnYcJ5bMO2ms0J+2IaZXktUtEtFP2Nc80entf8rMe+QLMw5Br1rCXBrJkGgWTP41uPQZPKZxcftQ==",
+        "SigningCertUrl": "https://sns.eu-central-1.amazonaws.com/SimpleNotificationService-01d088a6f77103d0fe307c0069e40ed6.pem",
+        "UnsubscribeUrl": "https://sns.eu-central-1.amazonaws.com/?Action=Unsubscribe&SubscriptionArn=arn:aws:sns:eu-central-1:094718664989:demo-23-12:9be6fd7d-9f78-46ac-ad5f-a8b61498f26b",
+        "MessageAttributes": {}
+      }
+    }
+  ]
+}
